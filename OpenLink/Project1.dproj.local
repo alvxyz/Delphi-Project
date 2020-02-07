@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/10/30 10:51:27.000.648,=C:\Users\alvia\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/01/20 08:38:52.000.022,=C:\Users\alvia\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/01/20 08:45:21.000.447,C:\Users\alvia\Documents\Pemrograman\Delphi\OpenLink\OpenLink.dfm=C:\Users\alvia\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/01/20 08:45:21.000.447,C:\Users\alvia\Documents\Pemrograman\Delphi\OpenLink\OpenLink.pas=C:\Users\alvia\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/01/20 08:45:43.000.025,C:\Users\alvia\Documents\Pemrograman\Delphi\OpenLink\Project1.dproj=C:\Users\alvia\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

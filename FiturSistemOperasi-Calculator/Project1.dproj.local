@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/10/30 10:51:27.000.648,=C:\Users\alvia\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/01/15 13:53:50.394,=C:\Users\alvia\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/01/15 14:12:48.517,C:\Users\alvia\Documents\Pemrograman\Delphi\FiturSistemOperasi-Calculator\Unit1.pas=C:\Users\alvia\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/01/15 14:12:48.517,C:\Users\alvia\Documents\Pemrograman\Delphi\FiturSistemOperasi-Calculator\Unit1.dfm=C:\Users\alvia\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/01/15 14:12:49.772,C:\Users\alvia\Documents\Pemrograman\Delphi\FiturSistemOperasi-Calculator\Project1.dproj=C:\Users\alvia\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

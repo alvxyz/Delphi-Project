@@ -1,0 +1,20 @@
+program Project1;
+
+uses
+  Vcl.Forms,
+  SplashScreen in 'SplashScreen.pas' {SplashScreenForm},
+  MainMenu in 'MainMenu.pas' {FormUtama},
+  AplikasiEksternal in 'AplikasiEksternal.pas' {appsExt};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TFormUtama, FormUtama);
+  Application.CreateForm(TappsExt, appsExt);
+  Application.CreateForm(TSplashScreen, SplashScreen);
+
+  Application.Run;
+
+end.
